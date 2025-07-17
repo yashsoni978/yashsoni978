@@ -40,11 +40,11 @@
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| **[AI Career Coach](https://ai-career-coach-two-kappa.vercel.app/)** | AI-powered resume builder and career guidance platform | Next.js, Prisma, Gemini AI, Inngest | 🌐 |
-| **[AI Finance Platform](https://welth-ai-finance-platform-one.vercel.app/)** | Budget tracking & financial insights powered by AI | Supabase, Inngest, Gemini AI, ArcJet | 🌐 |
-| **[Forever E-Commerce](https://forever-full-stack-frontend-eosin.vercel.app/)** | Full-stack e-commerce platform with payments | MERN Stack + Stripe | 🌐 |
-| **[Prescripto](https://prescripto-frontend-five.vercel.app/)** | Healthcare appointment platform with 3-role auth | MERN Stack + Stripe | 🌐 |
-| **[Insider Jobs](https://job-portal-fullstack-client-two.vercel.app/)** | Role-based job portal with payments and dashboards | MERN Stack + Stripe | 🌐 |
+| **AI Career Coach** | AI-powered resume builder and career guidance platform | Next.js, Prisma, Gemini AI, Inngest | [Live Demo](https://ai-career-coach-two-kappa.vercel.app/) |
+| **AI Finance Platform** | Budget tracking & financial insights powered by AI | Supabase, Inngest, Gemini AI, ArcJet | [Live Demo](https://welth-ai-finance-platform-one.vercel.app/) |
+| **Forever E-Commerce** | Full-stack e-commerce platform with payments | MERN Stack + Stripe | [Live Demo](https://forever-full-stack-frontend-eosin.vercel.app/) |
+| **Prescripto** | Healthcare appointment platform with 3-role auth | MERN Stack + Stripe | [Live Demo](https://prescripto-frontend-five.vercel.app/) |
+| **Insider Jobs** | Role-based job portal with payments and dashboards | MERN Stack + Stripe | [Live Demo](https://job-portal-fullstack-client-two.vercel.app/) |
 
 ---
 
@@ -62,7 +62,4 @@
 
 💬 Ask me about anything: full-stack development, async workflows, Gemini AI, or backend architecture.
 
-> 🔗 Portfolio: [https://portfolio-website-omega-six.vercel.app/#top](https://portfolio-website-omega-six.vercel.app/#top)
-
----
-
+🔗 **Portfolio**: [https://portfolio-website-omega-six.vercel.app/#top](https://portfolio-website-omega-six.vercel.app/#top)
