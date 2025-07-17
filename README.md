@@ -11,10 +11,10 @@
 
 ### 🧠 About Me
 
-- 🎓 Final-year B.Tech CSE student at KIIT, Bhubaneswar
-- 🚀 Passionate about building real-world full-stack web apps and AI-integrated platforms
-- 🛠️ Skilled in **React, Next.js, Node.js, MongoDB, Supabase, Prisma, Inngest, and Gemini AI**
-- 📈 Interested in scalable backend systems and event-driven architecture
+- 🎓 Final-year B.Tech CSE student at KIIT, Bhubaneswar  
+- 🚀 Passionate about building real-world full-stack web apps and AI-integrated platforms  
+- 🛠️ Skilled in **React, Next.js, Node.js, MongoDB, Supabase, Prisma, Inngest, and Gemini AI**  
+- 📈 Interested in scalable backend systems and event-driven architecture  
 - 📫 Reach me at: yashwardhansoni953@gmail.com
 
 ---
@@ -40,11 +40,11 @@
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| **AI Career Coach** | AI-powered resume builder and career guidance platform | Next.js, Prisma, Gemini AI, Inngest | [Live Demo](https://ai-career-coach-two-kappa.vercel.app/) |
-| **AI Finance Platform** | Budget tracking & financial insights powered by AI | Supabase, Inngest, Gemini AI, ArcJet | [Live Demo](https://welth-ai-finance-platform-one.vercel.app/) |
 | **Forever E-Commerce** | Full-stack e-commerce platform with payments | MERN Stack + Stripe | [Live Demo](https://forever-full-stack-frontend-eosin.vercel.app/) |
 | **Prescripto** | Healthcare appointment platform with 3-role auth | MERN Stack + Stripe | [Live Demo](https://prescripto-frontend-five.vercel.app/) |
 | **Insider Jobs** | Role-based job portal with payments and dashboards | MERN Stack + Stripe | [Live Demo](https://job-portal-fullstack-client-two.vercel.app/) |
+| **AI Career Coach** | AI-powered resume builder and career guidance platform | Next.js, Prisma, Gemini AI, Inngest | [Live Demo](https://ai-career-coach-two-kappa.vercel.app/) |
+| **AI Finance Platform** | Budget tracking & financial insights powered by AI | Supabase, Inngest, Gemini AI, ArcJet | [Live Demo](https://welth-ai-finance-platform-one.vercel.app/) |
 
 ---
 
